@@ -88,7 +88,7 @@ a, ul {
 }
 
 .hero-button {
-    background-color: #3882f2;
+    background-color: #f69418;
     padding: 8px 32px;
     font-size: 18px;
     color: #f9faf8;
@@ -128,7 +128,7 @@ a, ul {
 .box {
     width: 150px;
     height: 150px;
-    border: #3882f2 solid 4px;
+    border: #f69418 solid 4px;
     border-radius: 8px;
 }
 
@@ -192,6 +192,7 @@ a, ul {
     font-weight: 900;
     text-align: right;
     margin: 8px 0 0 0;
+    color: #1f2937;
 }
 
 .cta-section {
@@ -199,7 +200,7 @@ a, ul {
 }
 
 .cta-frame {
-    background-color: #3882f2;
+    background-color: #f69418;
     margin: 72px auto;
     border-radius: 8px;
     padding: 48px 0;
@@ -227,7 +228,7 @@ a, ul {
 .cta-button {
     border: #f9faf8 solid 2px;
     border-radius: 8px;
-    background-color: #3882f2;
+    background-color: #f69418;
     padding: 8px 36px;
     color: #f9faf8;
     font-size: 18px;
